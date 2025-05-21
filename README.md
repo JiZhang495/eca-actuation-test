@@ -1,2 +1,3 @@
-# eca-actuation-test
-An app for actuation performance testing of electrochemical actuators (ECAs)
+# ECA Actuation Test
+
+An app to automate actuation performance testing of electrochemical actuators (ECAs)

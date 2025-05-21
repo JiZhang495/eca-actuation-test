@@ -1,0 +1,11 @@
+.venv/
+venv/
+env/
+
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+.ruff_cache/
+
+labview/IT64001/
